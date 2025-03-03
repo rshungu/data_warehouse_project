@@ -24,17 +24,13 @@ The project follows the **Medallion Architecture**, which is organized into thre
 
 This project focuses on building a modern data solution with the following components:
 
-1. **Data Architecture:**  
-  Implementing a Medallion Architecture with **Bronze**, **Silver**, and **Gold** layers to ensure scalable and reliable data management.
+1. **Data Architecture:** Implementing a Medallion Architecture with **Bronze**, **Silver**, and **Gold** layers to ensure scalable and reliable data management.
 
-2. **ETL Pipelines:**  
-  Designing and developing ETL processes to **extract**, **transform**, and **load** data from source systems into the data warehouse.
+2. **ETL Pipelines:** Designing and developing ETL processes to **extract**, **transform**, and **load** data from source systems into the data warehouse.
 
-3. **Data Modeling:**  
-  Creating optimized **fact** and **dimension** tables to support efficient analytical queries.
+3. **Data Modeling:** Creating optimized **fact** and **dimension** tables to support efficient analytical queries.
 
-4. **Analytics & Reporting:**  
-  Developing **SQL-based reports** and **dashboards** to deliver meaningful and actionable insights.
+4. **Analytics & Reporting:** Developing **SQL-based reports** and **dashboards** to deliver meaningful and actionable insights.
 
 ---
 
@@ -47,20 +43,15 @@ Design and implement a modern data warehouse using **SQL Server** to consolidate
 
 #### Specifications
 
-- **Data Sources:**  
-  Load data from two source systems — **ERP** and **CRM** — provided as CSV files.
+- **Data Sources:** Load data from two source systems — **ERP** and **CRM** — provided as CSV files.
 
-- **Data Quality:**  
-  Perform data cleansing to identify and resolve quality issues before analysis.
+- **Data Quality:** Perform data cleansing to identify and resolve quality issues before analysis.
 
-- **Integration:**  
-  Merge both sources into a unified, user-friendly **data model** optimized for analytical queries.
+- **Integration:** Merge both sources into a unified, user-friendly **data model** optimized for analytical queries.
 
-- **Scope:**  
-  Focus on the most recent dataset only (no historization or time-based tracking required).
+- **Scope:** Focus on the most recent dataset only (no historization or time-based tracking required).
 
-- **Documentation:**  
-  Deliver clear and concise documentation of the data model to support both business stakeholders and analytics teams.
+- **Documentation:** Deliver clear and concise documentation of the data model to support both business stakeholders and analytics teams.
 
 ### B. BI Analytics and Reporting
 #### Objective

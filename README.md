@@ -8,7 +8,7 @@ This project presents a complete data warehousing and analytics solution, coveri
 
 The project follows the **Medallion Architecture**, which is organized into three layers:  
 
-![Medallion Architecture](scripts/Data Architecture.jpg)
+![Medallion Architecture](https://github.com/rshungu/data_warehouse_project/tree/ca969fa5c0f10539b654c3dd89ef52d835d74a64/scripts/Data Architecture.jpg)
 
 - **Bronze Layer**: Stores raw data directly from source systems.
 - **Silver Layer**: Cleans, standardizes, and organizes the data to make it ready for analysis.  
